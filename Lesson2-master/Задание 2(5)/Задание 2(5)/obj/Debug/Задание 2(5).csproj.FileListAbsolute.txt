@@ -1,0 +1,29 @@
+C:\Users\Mike\Desktop\Фисюн Задание 1\задание 2(5)\Задание 2(5)\Задание 2(5)\bin\Debug\Задание 2(5).exe.config
+C:\Users\Mike\Desktop\Фисюн Задание 1\задание 2(5)\Задание 2(5)\Задание 2(5)\bin\Debug\Задание 2(5).exe
+C:\Users\Mike\Desktop\Фисюн Задание 1\задание 2(5)\Задание 2(5)\Задание 2(5)\bin\Debug\Задание 2(5).pdb
+C:\Users\Mike\Desktop\Фисюн Задание 1\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Фисюн Задание 1\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание_2_5_.Form1.resources
+C:\Users\Mike\Desktop\Фисюн Задание 1\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание_2_5_.Properties.Resources.resources
+C:\Users\Mike\Desktop\Фисюн Задание 1\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).csproj.GenerateResource.cache
+C:\Users\Mike\Desktop\Фисюн Задание 1\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Фисюн Задание 1\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).exe
+C:\Users\Mike\Desktop\Фисюн Задание 1\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).pdb
+C:\Users\Mike\Desktop\задание 2(5)\Задание 2(5)\Задание 2(5)\bin\Debug\Задание 2(5).exe.config
+C:\Users\Mike\Desktop\задание 2(5)\Задание 2(5)\Задание 2(5)\bin\Debug\Задание 2(5).exe
+C:\Users\Mike\Desktop\задание 2(5)\Задание 2(5)\Задание 2(5)\bin\Debug\Задание 2(5).pdb
+C:\Users\Mike\Desktop\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание_2_5_.Form1.resources
+C:\Users\Mike\Desktop\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание_2_5_.Properties.Resources.resources
+C:\Users\Mike\Desktop\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).csproj.GenerateResource.cache
+C:\Users\Mike\Desktop\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).exe
+C:\Users\Mike\Desktop\задание 2(5)\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).pdb
+C:\Users\Степан Ф\Desktop\задание 5\Lesson2-master\Задание 2(5)\Задание 2(5)\bin\Debug\Задание 2(5).exe.config
+C:\Users\Степан Ф\Desktop\задание 5\Lesson2-master\Задание 2(5)\Задание 2(5)\bin\Debug\Задание 2(5).exe
+C:\Users\Степан Ф\Desktop\задание 5\Lesson2-master\Задание 2(5)\Задание 2(5)\bin\Debug\Задание 2(5).pdb
+C:\Users\Степан Ф\Desktop\задание 5\Lesson2-master\Задание 2(5)\Задание 2(5)\obj\Debug\Задание_2_5_.Form1.resources
+C:\Users\Степан Ф\Desktop\задание 5\Lesson2-master\Задание 2(5)\Задание 2(5)\obj\Debug\Задание_2_5_.Properties.Resources.resources
+C:\Users\Степан Ф\Desktop\задание 5\Lesson2-master\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).csproj.GenerateResource.cache
+C:\Users\Степан Ф\Desktop\задание 5\Lesson2-master\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).csproj.CoreCompileInputs.cache
+C:\Users\Степан Ф\Desktop\задание 5\Lesson2-master\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).exe
+C:\Users\Степан Ф\Desktop\задание 5\Lesson2-master\Задание 2(5)\Задание 2(5)\obj\Debug\Задание 2(5).pdb
